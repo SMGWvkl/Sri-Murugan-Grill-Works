@@ -1,0 +1,46 @@
+.srimurugangrillworks{
+    height: 140px;
+    width: 1400px;
+    text-align: center;
+    background-image: url(Nameboximage.jpeg);
+    padding-top: 80px;
+    font-size: 40px;
+}
+
+h4{
+    font-size: 28px;
+    width: 1400px;
+}
+
+li{
+    font-size: 24px;
+}
+
+.pone,.ptwo,.pthree,.pfour,.pfive,.psix,.pseven,.peight,.pnine,.pten,.peleven,.ptwelve,.pthirteen{
+    margin-top: 25px;
+    height: 350px;
+    width: 350px;
+    margin-left: 25px;
+    display: inline-block;
+    border-style: solid;
+}
+
+@media (max-width : 600px){
+    .pone,.ptwo,.pthree,.pfour,.pfive,.psix,.pseven,.peight,.pnine,.pten,.peleven,.ptwelve,.pthirteen{
+        margin-top: 25px;
+        height: 175px;
+        width: 175px;
+        margin-left: 25px;
+        display: inline;
+        border-style: solid;
+    }
+    .srimurugangrillworks{
+        height: 50px;
+        width: 400px;
+        text-align: center;
+        background-image: url(Nameboximage.jpeg);
+        padding-top: 15px;
+        font-size: 20px;
+    }
+    
+}
