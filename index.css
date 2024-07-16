@@ -5,6 +5,7 @@
     background-image: url(Nameboximage.jpeg);
     padding-top: 80px;
     font-size: 40px;
+    position:fixed;
 }
 
 h4{
@@ -42,6 +43,7 @@ li{
         padding-top: 15px;
         font-size: 35px;
         text-color:white;
+        position:fixed;
     }
     .Aboutus{
         width: 400px;
