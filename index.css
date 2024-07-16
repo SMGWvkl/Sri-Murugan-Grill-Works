@@ -24,6 +24,10 @@ li{
     margin-left: 25px;
     display: inline-block;
     border-style: solid;
+.pone,.ptwo,.pthree,.pfour,.pfive,.psix,.pseven,.peight,.pnine,.pten,.peleven,.ptwelve,.pthirteen:hover{
+     width:500px;
+     height:500px;}
+
 }
 
 @media (max-width : 600px){
